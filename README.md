@@ -2941,9 +2941,7 @@ HTML("""
 
 
 
-<video width="640" height="360" controls>
-  <source src="challange_output.mp4">
-</video>
+[![Lane Finiding](Frames/scene00981.jpg)](https://youtu.be/-kFrO_kBkrI)
 
 
 
