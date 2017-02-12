@@ -1661,9 +1661,7 @@ white_clip.write_videofile(video_output, audio=False)
     [MoviePy] >>>> Video ready: challange_output.mp4 
     
 
-
-[![Lane Finiding](Frames/scene00981.jpg)](https://youtu.be/-kFrO_kBkrI)
-
+[<img src="Frames/scene00981.jpg">](https://youtu.be/-kFrO_kBkrI)
 
 
 
